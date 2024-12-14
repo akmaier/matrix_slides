@@ -1,6 +1,8 @@
 # matrix_slides
 TeX slides for the Matrix Videos on my YouTube Channel: https://www.youtube.com/@maierAK
 
+Video that was used as input to the prompting: https://www.youtube.com/watch?v=oDeXE2iliiY
+
 1st round of conversations with GPT4 (June 2024, Enter the Matrix):
 https://chatgpt.com/share/675c91c3-e5fc-8003-aae1-d6030850f8d3
 
