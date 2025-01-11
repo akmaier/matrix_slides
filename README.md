@@ -1,4 +1,10 @@
 # matrix_slides
+Description on how the slides were created:
+https://medium.com/codex/a-practical-guide-to-prompting-large-language-models-for-academic-content-conversion-5d12491237ba?sk=0ae8351d1807cd646d013459e983826b
+
+Enter the Matrix Video:
+https://youtu.be/BLVtanj3JuM
+
 TeX slides for the Matrix Videos on my YouTube Channel: https://www.youtube.com/@maierAK
 
 Video that was used as input to the prompting: https://www.youtube.com/watch?v=oDeXE2iliiY
